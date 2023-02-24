@@ -1,0 +1,11 @@
+127.0.0.1 - - [21/Feb/2023:14:15:15 -0300] "GET / HTTP/1.1" 404 748
+0:0:0:0:0:0:0:1 - - [21/Feb/2023:14:15:24 -0300] "GET /FinanceiroWeb/OlaMundo.xhtml HTTP/1.1" 200 387
+0:0:0:0:0:0:0:1 - - [21/Feb/2023:14:15:30 -0300] "GET /FinanceiroWeb/ HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [21/Feb/2023:14:15:52 -0300] "GET /FinanceiroWeb/index.xhtml HTTP/1.1" 200 613
+0:0:0:0:0:0:0:1 - - [21/Feb/2023:14:17:12 -0300] "GET /FinanceiroWeb/index.xhtml HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [21/Feb/2023:14:17:13 -0300] "GET /FinanceiroWeb/index.xhtml HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [21/Feb/2023:14:17:14 -0300] "GET /FinanceiroWeb/index.xhtml HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [21/Feb/2023:14:17:14 -0300] "GET /FinanceiroWeb/index.xhtml HTTP/1.1" 304 -
+127.0.0.1 - - [21/Feb/2023:14:17:37 -0300] "GET / HTTP/1.1" 404 748
+127.0.0.1 - - [21/Feb/2023:14:27:34 -0300] "GET / HTTP/1.1" 404 748
+0:0:0:0:0:0:0:1 - - [21/Feb/2023:14:27:35 -0300] "GET /FinanceiroWeb/index.jsf HTTP/1.1" 200 352
